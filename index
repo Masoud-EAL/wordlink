@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Redirecting...</title>
+<!-- Immediate redirect -->
+<meta http-equiv="refresh" content="0; url=https://masoud-eal.github.io/LearntoRead/">
+<!-- Helps search engines -->
+<link rel="canonical" href="https://masoud-eal.github.io/LearntoRead/">
+<script>
+   // Fallback redirect (for browsers that ignore meta refresh)
+   window.location.href = "https://masoud-eal.github.io/LearntoRead/";
+</script>
+</head>
+<body>
+<p>Redirecting to WordLink…</p>
+<p>If nothing happens, <a href="https://masoud-eal.github.io/LearntoRead/">click here</a>.</p>
+</body>
+</html>
